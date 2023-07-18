@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tex{
+    background-color: rgb(252, 135, 122);
+    padding: 4%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.ver{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(5, 168, 125);
+    width: 100%;
+    height: 49px;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 0px 15px 0px;
+    font-size: 16px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    color: rgb(255, 255, 255);
+    margin: 0px 10px 0px ;
+    cursor:pointer;
+    font-size: medium;
+}
+section{
+    display: flex;
+
+}
+aside{
+    width: 30%;
+    background-color: rgb(233, 232, 232);
+}
+#asTex{
+    margin: 30px 15px 10px;
+    font-size: 20px;
+}
+#asideImg1{
+    width: 527px;
+    height: 380px;
+    margin: 0px 15px 10px;
+}
+.asTex2{
+    margin: 0px 15px 10px;
+}
+img{
+    width: 500px;
+    height:200px;
+    margin: 2px 19px 0px;
+}
+
+
+article{
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.227);
+}
+#arTex{
+    margin: 20px 20px 0px;
+    font-size: 25px;
+}
+#arTex2{
+    margin: 0px 20px 0px;
+}
+
+#artImg{
+    width: 1230px;
+    height: 270px;
+    padding: 1%;
+}
+p{
+    margin: 10px 30px 0px;
+    font-size: 20px;
+}
+hr{
+    width: 93%;
+    margin: 15px 25px 15px;
+}
+h4{
+    margin: 10px 30px 0px;
+    font-size: 25px;
+}
+
+
+footer{
+    background-color: rgb(232, 111, 111);
+
+    text-align: center;
+
+    padding: 1%;
+}

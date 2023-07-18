@@ -1,0 +1,16 @@
+*{
+    padding: 1%;
+    margin: 0%;
+}
+
+body{
+    height: 928px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    background-color: rgb(196, 204, 201);
+    width: 20%;
+    height: 20%;
+}
